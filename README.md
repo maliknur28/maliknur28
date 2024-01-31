@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me {on whatsapp if already know}
-- 😄 Pronouns: ...
+- 😄 Pronouns: there isn't any yet
 - ⚡ Fun fact: still studying
 
 <!---
